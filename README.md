@@ -1,5 +1,5 @@
-# Recent papers on Knowledge Graph Embedding (KGE) (2020~)
-This list will be updated in coming days!
+# Recent papers on Knowledge Graph Embedding (KGE)
+This repo contains some recent papers (survey, conference, and journal) and KGEs libraries. This list will be updated in coming days!
 
 ## Libraries for KGEs
 - StellerGraph [GitHub](https://github.com/stellargraph/stellargraph)
