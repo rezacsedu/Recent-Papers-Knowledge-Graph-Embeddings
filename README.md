@@ -940,11 +940,11 @@ Following are some recent conference papers on KGEs.
 ### Citing
 Please consider citing this repository if you find it useful in your research
 
-@misc{Recent_KGEs,
-  author = {Md. Rezaul Karim},
-  title = {Recent Papers on Knowledge Graph Embeddings},
-  year = {2022},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/rezacsedu/Recent-Papers-Knowledge-Graph-Embeddings}},
-}
+	@misc{Recent_KGEs,
+	  author = {Md. Rezaul Karim},
+	  title = {Recent Papers on Knowledge Graph Embeddings},
+	  year = {2022},
+	  publisher = {GitHub},
+	  journal = {GitHub Repository},
+	  howpublished = {\url{https://github.com/rezacsedu/Recent-Papers-Knowledge-Graph-Embeddings}},
+	}
