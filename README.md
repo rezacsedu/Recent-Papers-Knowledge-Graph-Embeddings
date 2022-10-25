@@ -527,6 +527,9 @@ Following are some recent conference papers on KGEs.
 ##### AAMAS
 - <a name="TransL"></a> **(TransL)** Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995) [code](https://github.com/KGCompletion/TransL)
 
+### Acknowledgement
+Some papers are collected from https://github.com/xinguoxia/KGE. 
+
 ### Citing
 Please consider citing this repository if you find it useful in your research
 
