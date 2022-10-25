@@ -1,15 +1,16 @@
-# Recent papers on Knowledge Graph Embedding (KGE)
+# Recent papers on Knowledge Graph Embeddings(KGE)
 This repo contains some recent papers (survey, conference, and journal) and KGEs libraries. This list will be updated in coming days!
 
 ## Libraries for KGEs
-- StellerGraph [GitHub](https://github.com/stellargraph/stellargraph)
-- LibKGE [GitHub](https://github.com/uma-pi1/kge)
-- OpenKE [GitHub](https://github.com/thunlp/OpenKE)
-- PyKEEN [GitHub](https://github.com/pykeen/pykeen)
-- Pykg2vec [GitHub](https://github.com/Sujit-O/pykg2vec)
-- GraphVite [GitHub](https://github.com/DeepGraphLearning/graphvite)
-- Scikit-KGE [GitHub](https://github.com/mnick/scikit-kge)
-- AmpliGraph [GitHub](https://github.com/Accenture/AmpliGraph)
+- **StellerGraph**: https://github.com/stellargraph/stellargraph
+- **AmpliGraph**: https://github.com/Accenture/AmpliGraph
+- **TorchKGE**: https://github.com/torchkge-team/torchkge
+- **PyKEEN**: https://github.com/pykeen/pykeen
+- **LibKGE**: https://github.com/uma-pi1/kge
+- **OpenKE**: https://github.com/thunlp/OpenKE
+- **Pykg2vec**: https://github.com/Sujit-O/pykg2vec
+- **GraphVite**: https://github.com/DeepGraphLearning/graphvite
+- **Scikit-KGE**: https://github.com/mnick/scikit-kge
 
 ## Papers
 I categorized KGE papers into survey/review, conferences, and journals. 
